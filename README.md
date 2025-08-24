@@ -65,7 +65,7 @@ Through hands-on examples, you’ll practice building reusable, extensible, and 
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/Apani13/s3-01-patterns-1.git
+git clone https://github.com/Apani13/s3-01-patterns1.git
 
 cd s3-01-patterns
 ```
